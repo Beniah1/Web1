@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: url(logo/liquiedbg.svg);
+  overflow: scroll;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main-text {
+  color: rgb(34, 83, 126);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 44px;
+  letter-spacing: 6px;
+  text-transform: uppercase;
+}
